@@ -1,0 +1,12 @@
+C:\Users\colton\source\repos\PDText\PDText\bin\Debug\PDText.exe.config
+C:\Users\colton\source\repos\PDText\PDText\bin\Debug\PDText.exe
+C:\Users\colton\source\repos\PDText\PDText\bin\Debug\PDText.pdb
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.csprojResolveAssemblyReference.cache
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.Form1.resources
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.Properties.Resources.resources
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.csproj.GenerateResource.Cache
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.csproj.CoreCompileInputs.cache
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.exe
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.pdb
+C:\Users\colton\source\repos\PDText\PDText\obj\Debug\PDText.TextAreaSelectionForm.resources
+C:\Users\colton\source\repos\PDText\PDText\bin\Debug\IronOcr.xml
